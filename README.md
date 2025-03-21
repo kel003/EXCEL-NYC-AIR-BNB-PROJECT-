@@ -1,5 +1,5 @@
 # EXCEL-NYC-AIR-BNB-PROJECT-
-In this project I was given a data listing on excel and was asked to find the most attractive locations for airbnbs in New York City. Finding the property revenue and ratings were key factors to discovering which Airbnbs were the top locations in our data.
+In this project I was given a data listing on excel and was asked to find the most attractive locations for Airbnb's in New York City. Finding the property revenue and ratings were key factors to discovering which Airbnb's were the top locations in our data.
 
 Data cleaning was needed for the raw data listings. Removing all irrelevant data allows me to see what information is important and useful.
 
